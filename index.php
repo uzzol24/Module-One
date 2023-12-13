@@ -22,15 +22,14 @@
 
 
 <?php 
-  $name="Nazmul huda";
+  $name="ujjal Banik";
   $coursename="PHP & Laravel Programmers";
 ?>
 
 
 
-
-<?php My mother name is echo $name;?>
-<?php My mother name is echo $coursename;?>
+<?php My name is echo $name;?>
+<?php My cours name is echo $coursename;?>
 
 
 </body>
