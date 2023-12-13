@@ -7,10 +7,30 @@
     <title>Ujjal Banik</title>
 </head>
 <body>
-    
+     
+
+
 <h1>Module One assignment</h1>
 <h2>Ujjal Banik</h2>
 
+
+
+<?php
+  echo "Hi, I'm Ujjal!";
+?>
+
+
+
+<?php 
+  $name="Nazmul huda";
+  $coursename="PHP & Laravel Programmers";
+?>
+
+
+
+
+<?php My mother name is echo $name;?>
+<?php My mother name is echo $coursename;?>
 
 
 </body>
